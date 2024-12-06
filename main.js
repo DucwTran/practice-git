@@ -1,0 +1,1 @@
+alert("Day la file cua nhanh main truoc khi day vao repo");
